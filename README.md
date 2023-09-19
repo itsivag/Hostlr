@@ -50,15 +50,11 @@ These instructions will help you set up a development environment and run Hostlr
 
 ## Usage
 
-1. **User Registration:** Create an account by providing your details, including a valid email address.
+1. **Leave Request Submission:** After logging in, submit a leave request by filling out the required information on the submission form.
 
-2. **User Login:** Log in using your registered email and password.
+2. **Leave Request Status:** View the status of your leave requests on your dashboard.
 
-3. **Leave Request Submission:** After logging in, submit a leave request by filling out the required information on the submission form.
-
-4. **Leave Request Status:** View the status of your leave requests on your dashboard.
-
-5. **User Profile:** Update your profile information if necessary.
+3. **User Profile:** Update your profile information if necessary.
 
 ## Contributing
 
@@ -78,20 +74,10 @@ Contributions are welcome! If you'd like to contribute to Hostlr, please follow 
 
 5. Create a pull request on the main repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to the React community for providing a powerful framework for building web applications.
 
 - We would like to express our gratitude to the hostel warden for supporting this initiative to streamline leave request processing for hostel residents.
-
-## Contact
-
-If you have any questions or need assistance, please contact us at [email@example.com](mailto:email@example.com).
-
----
 
 Thank you for choosing Hostlr! We hope this application simplifies the leave request process for hostel residents and improves their overall experience.
