@@ -2,12 +2,8 @@
 
 Hostlr is a simple and user-friendly web application built with React that allows hostel residents to request permission to leave the hostel premises. This application serves as a convenient platform for hostelers to submit leave requests to the hostel warden and track the status of their requests, all from the comfort of their web browsers. Hostlr is a frontend-only application, making it easy to integrate with existing systems or deploy independently.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/itsivag/Hostlr/main/assets/85468732/7b0a25f6-eee4-4695-98c8-c2850cec52d2.png" alt="Screenshot 1" width="30%" />
-  <img src="https://raw.githubusercontent.com/itsivag/Hostlr/main/assets/85468732/d727a3bc-0c2c-4294-89c3-5cb57a5d1dc3.png" alt="Screenshot 2" width="30%" />
-  <img src="https://raw.githubusercontent.com/itsivag/Hostlr/main/assets/85468732/f333a30e-5ddf-4192-9426-23e303a6ce6c.png" alt="Screenshot 3" width="30%" />
-</div>
 
+![ss_1](https://github.com/itsivag/Hostlr/assets/85468732/ebbb4d48-3942-4c55-b477-6f1a9e2f5169) ![ss_3](https://github.com/itsivag/Hostlr/assets/85468732/288be849-553a-431e-b7e9-4cfc73dccb9c)
 
 ## Features
 
