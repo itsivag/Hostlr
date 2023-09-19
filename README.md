@@ -4,8 +4,6 @@ Hostlr is a simple and user-friendly web application built with React that allow
 
 ## Features
 
-- **User Registration and Login:** Users can create accounts and log in to the application to access its features securely.
-
 - **Leave Request Submission:** Hostel residents can submit leave requests by providing essential details such as the reason for leave, departure date and time, return date and time, and any additional comments.
 
 - **Leave Request Status Tracking:** Users can view the status of their leave requests, whether they are pending, approved, or rejected.
